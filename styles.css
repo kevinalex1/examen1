@@ -1,0 +1,14 @@
+.payment-card{ 
+    width: 400px;
+    height: 400px;
+} 
+.payment-card>header{
+    width: 400px;
+    height: 400px;
+}
+.h1{
+    background: blue; 
+    color: yellow; 
+    font-size: 50px; 
+    color: yellow;
+}
