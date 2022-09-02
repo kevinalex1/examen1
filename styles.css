@@ -2,13 +2,9 @@
     width: 400px;
     height: 400px;
 } 
-.payment-card>header{
-    width: 400px;
-    height: 400px;
-}
-.h1{
+.texto{
     background: blue; 
     color: yellow; 
-    font-size: 50px; 
+    font-size: 100px; 
     color: yellow;
 }
